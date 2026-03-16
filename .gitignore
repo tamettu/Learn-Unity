@@ -1,0 +1,48 @@
+# --- Unity 產生的臨時文件與資料夾 ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# --- 記憶體快照與錄製文件 (體積大且含敏感數據) ---
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# --- 資源商店工具 (選用，若不希望上傳工具外掛可取消註解) ---
+# /[Aa]ssets/AssetStoreTools*
+
+# --- 專案構建產出物 ---
+/[Aa]ssets/StreamingAssets/aa/*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# --- IDE 自動產生的文件 (Visual Studio / Rider / VS Code) ---
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# --- Unity 自動產生的 Meta 文件 (損壞或崩潰報告) ---
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# --- 作業系統產生的文件 ---
+.DS_Store
+Thumbs.db
