@@ -154,8 +154,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 960
-        width: 49
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,8 +175,8 @@ TextureImporter:
         serializedVersion: 2
         x: 64
         y: 960
-        width: 49
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,8 +196,8 @@ TextureImporter:
         serializedVersion: 2
         x: 128
         y: 960
-        width: 52
-        height: 52
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,8 +217,8 @@ TextureImporter:
         serializedVersion: 2
         x: 192
         y: 960
-        width: 50
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,8 +238,8 @@ TextureImporter:
         serializedVersion: 2
         x: 256
         y: 960
-        width: 52
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,8 +259,8 @@ TextureImporter:
         serializedVersion: 2
         x: 320
         y: 960
-        width: 49
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,8 +280,8 @@ TextureImporter:
         serializedVersion: 2
         x: 384
         y: 960
-        width: 49
-        height: 58
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,8 +301,8 @@ TextureImporter:
         serializedVersion: 2
         x: 448
         y: 960
-        width: 50
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,8 +322,8 @@ TextureImporter:
         serializedVersion: 2
         x: 512
         y: 960
-        width: 50
-        height: 52
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,8 +343,8 @@ TextureImporter:
         serializedVersion: 2
         x: 576
         y: 960
-        width: 50
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,8 +364,8 @@ TextureImporter:
         serializedVersion: 2
         x: 640
         y: 960
-        width: 49
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,8 +385,8 @@ TextureImporter:
         serializedVersion: 2
         x: 704
         y: 960
-        width: 49
-        height: 58
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,8 +406,8 @@ TextureImporter:
         serializedVersion: 2
         x: 768
         y: 960
-        width: 51
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -427,8 +427,8 @@ TextureImporter:
         serializedVersion: 2
         x: 832
         y: 960
-        width: 50
-        height: 52
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,8 +448,8 @@ TextureImporter:
         serializedVersion: 2
         x: 896
         y: 960
-        width: 50
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -469,8 +469,8 @@ TextureImporter:
         serializedVersion: 2
         x: 960
         y: 960
-        width: 49
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,10 +488,10 @@ TextureImporter:
       name: 4kMushroom_16
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 896
-        width: 49
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,10 +509,10 @@ TextureImporter:
       name: 4kMushroom_17
       rect:
         serializedVersion: 2
-        x: 65
+        x: 64
         y: 896
-        width: 54
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,10 +530,10 @@ TextureImporter:
       name: 4kMushroom_18
       rect:
         serializedVersion: 2
-        x: 127
-        y: 897
-        width: 49
-        height: 44
+        x: 128
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,10 +551,10 @@ TextureImporter:
       name: 4kMushroom_19
       rect:
         serializedVersion: 2
-        x: 191
+        x: 192
         y: 896
-        width: 52
-        height: 42
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: 4kMushroom_20
       rect:
         serializedVersion: 2
-        x: 255
+        x: 256
         y: 896
-        width: 49
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,8 +595,8 @@ TextureImporter:
         serializedVersion: 2
         x: 320
         y: 896
-        width: 49
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,8 +616,8 @@ TextureImporter:
         serializedVersion: 2
         x: 384
         y: 896
-        width: 49
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -637,8 +637,8 @@ TextureImporter:
         serializedVersion: 2
         x: 448
         y: 896
-        width: 50
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -658,8 +658,8 @@ TextureImporter:
         serializedVersion: 2
         x: 512
         y: 896
-        width: 54
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,10 +677,10 @@ TextureImporter:
       name: 4kMushroom_25
       rect:
         serializedVersion: 2
-        x: 575
+        x: 576
         y: 896
-        width: 52
-        height: 42
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -698,10 +698,10 @@ TextureImporter:
       name: 4kMushroom_26
       rect:
         serializedVersion: 2
-        x: 639
+        x: 640
         y: 896
-        width: 50
-        height: 44
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,8 +721,8 @@ TextureImporter:
         serializedVersion: 2
         x: 704
         y: 896
-        width: 50
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -742,8 +742,8 @@ TextureImporter:
         serializedVersion: 2
         x: 768
         y: 896
-        width: 49
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -763,8 +763,8 @@ TextureImporter:
         serializedVersion: 2
         x: 832
         y: 896
-        width: 49
-        height: 59
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -782,10 +782,10 @@ TextureImporter:
       name: 4kMushroom_30
       rect:
         serializedVersion: 2
-        x: 898
+        x: 896
         y: 896
-        width: 49
-        height: 57
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,10 +803,10 @@ TextureImporter:
       name: 4kMushroom_31
       rect:
         serializedVersion: 2
-        x: 963
+        x: 960
         y: 896
-        width: 49
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -824,10 +824,10 @@ TextureImporter:
       name: 4kMushroom_32
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 832
-        width: 49
-        height: 57
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,8 +847,8 @@ TextureImporter:
         serializedVersion: 2
         x: 64
         y: 832
-        width: 49
-        height: 59
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -866,10 +866,10 @@ TextureImporter:
       name: 4kMushroom_34
       rect:
         serializedVersion: 2
-        x: 130
+        x: 128
         y: 832
-        width: 49
-        height: 57
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -887,10 +887,10 @@ TextureImporter:
       name: 4kMushroom_35
       rect:
         serializedVersion: 2
-        x: 197
+        x: 192
         y: 832
-        width: 49
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -908,10 +908,10 @@ TextureImporter:
       name: 4kMushroom_36
       rect:
         serializedVersion: 2
-        x: 258
+        x: 256
         y: 832
-        width: 49
-        height: 57
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,9 +930,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 836
-        width: 49
-        height: 33
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -952,8 +952,8 @@ TextureImporter:
         serializedVersion: 2
         x: 384
         y: 832
-        width: 49
-        height: 44
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -973,8 +973,8 @@ TextureImporter:
         serializedVersion: 2
         x: 448
         y: 832
-        width: 49
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -994,8 +994,8 @@ TextureImporter:
         serializedVersion: 2
         x: 512
         y: 832
-        width: 49
-        height: 44
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1015,8 +1015,8 @@ TextureImporter:
         serializedVersion: 2
         x: 576
         y: 832
-        width: 49
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,9 +1035,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 640
-        y: 837
-        width: 49
-        height: 26
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1057,8 +1057,8 @@ TextureImporter:
         serializedVersion: 2
         x: 704
         y: 832
-        width: 49
-        height: 44
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1078,8 +1078,8 @@ TextureImporter:
         serializedVersion: 2
         x: 768
         y: 832
-        width: 49
-        height: 45
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1099,8 +1099,8 @@ TextureImporter:
         serializedVersion: 2
         x: 832
         y: 832
-        width: 49
-        height: 44
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1120,8 +1120,8 @@ TextureImporter:
         serializedVersion: 2
         x: 896
         y: 832
-        width: 49
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1141,8 +1141,8 @@ TextureImporter:
         serializedVersion: 2
         x: 960
         y: 832
-        width: 48
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1162,8 +1162,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 768
-        width: 48
-        height: 57
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1183,8 +1183,8 @@ TextureImporter:
         serializedVersion: 2
         x: 64
         y: 768
-        width: 48
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1204,8 +1204,8 @@ TextureImporter:
         serializedVersion: 2
         x: 128
         y: 768
-        width: 48
-        height: 53
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1225,8 +1225,8 @@ TextureImporter:
         serializedVersion: 2
         x: 192
         y: 768
-        width: 48
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1246,8 +1246,8 @@ TextureImporter:
         serializedVersion: 2
         x: 256
         y: 768
-        width: 47
-        height: 57
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1267,8 +1267,8 @@ TextureImporter:
         serializedVersion: 2
         x: 320
         y: 768
-        width: 49
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1288,8 +1288,8 @@ TextureImporter:
         serializedVersion: 2
         x: 384
         y: 768
-        width: 48
-        height: 53
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1309,8 +1309,8 @@ TextureImporter:
         serializedVersion: 2
         x: 448
         y: 768
-        width: 48
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1330,8 +1330,8 @@ TextureImporter:
         serializedVersion: 2
         x: 512
         y: 768
-        width: 49
-        height: 57
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1349,10 +1349,10 @@ TextureImporter:
       name: 4kMushroom_57
       rect:
         serializedVersion: 2
-        x: 575
+        x: 576
         y: 768
-        width: 49
-        height: 57
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1372,8 +1372,8 @@ TextureImporter:
         serializedVersion: 2
         x: 640
         y: 768
-        width: 50
-        height: 55
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1393,8 +1393,8 @@ TextureImporter:
         serializedVersion: 2
         x: 704
         y: 768
-        width: 48
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1414,8 +1414,8 @@ TextureImporter:
         serializedVersion: 2
         x: 768
         y: 768
-        width: 47
-        height: 57
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1435,8 +1435,8 @@ TextureImporter:
         serializedVersion: 2
         x: 832
         y: 768
-        width: 50
-        height: 56
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1456,8 +1456,8 @@ TextureImporter:
         serializedVersion: 2
         x: 896
         y: 768
-        width: 48
-        height: 53
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

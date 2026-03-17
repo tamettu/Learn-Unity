@@ -11,7 +11,8 @@ public class player_move : MonoBehaviour
     Animator _animator;
     Rigidbody2D _rb;
     [SerializeField] float _moveSpeed = 1.5f;
-    [SerializeField] float _rollSpeed = 30f;
+    [SerializeField] float _rollSpeed = 2f;
+    [SerializeField] float _totalRollTime= 0.43f;
     [SerializeField] float _rollCD = 0.5f;
     float _totalTime = 0f;
     float _lastRollTime = 0f;
@@ -28,24 +29,27 @@ public class player_move : MonoBehaviour
         if (Input.GetKey(KeyCode.W))direction.y +=1;
         if (Input.GetKey(KeyCode.S))direction.y +=-1;
         
-         _rb.velocity = direction.normalized * _moveSpeed;
+        _rb.velocity = direction.normalized * _moveSpeed;
         return direction;
     }
     void Rolling(Vector2 direction)
     {
-        if (_isRoll && _totalTime - _lastRollTime >= _rollCD)
-        {
-            _isRoll = false; _animator.SetBool("IsRolling",false);
-            return;
-        }
-        if (!Input.GetKeyDown(KeyCode.LeftControl)) return;
-        if (_totalTime - _lastRollTime <= _rollCD && _lastRollTime != 0)
+        if (_totalTime - _lastRollTime <= _totalRollTime && _isRoll)
         {
             _rb.AddForce(direction.normalized * _rollSpeed, ForceMode2D.Impulse);
-            _isRoll = true; _animator.SetBool("IsRolling",true);
-            _lastRollTime = _totalTime;
         }
-        
+        else _animator.SetBool("IsRolling",false);
+
+        if (_isRoll && _totalTime - _lastRollTime >= _rollCD)
+        {
+            _isRoll = false; 
+            return;
+        }
+
+        if (!Input.GetKeyDown(KeyCode.LeftControl)) return;   
+
+        _isRoll = true; _animator.SetBool("IsRolling",true);
+        _lastRollTime = _totalTime;
     }
 
     // Start is called before the first frame update
