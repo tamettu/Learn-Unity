@@ -32,4 +32,6 @@
 ┃     ┣camera             #put camera scripts
 ┃     ┗player             #put player scripts
 ```
-
+<img width="287" height="239" alt="image" src="https://github.com/user-attachments/assets/2ad71e1d-d0cc-45ab-8fd8-e4a559573a1e" />
+<img width="185" height="225" alt="image" src="https://github.com/user-attachments/assets/c7fa3041-5456-4bae-8057-64857bfdd257" />
+<img width="153" height="159" alt="image" src="https://github.com/user-attachments/assets/dfd8133c-8203-4513-82f4-e001ae1f796c" />
