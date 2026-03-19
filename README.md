@@ -1,7 +1,7 @@
 # This is a simple game demo 
 
 ## ✨Features
-- A movable character scroll
+- A movable character
   ```
   Can move direction ✅️
   Can scroll         ✅️
