@@ -442,7 +442,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: player
+  m_Name: _player
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: X
@@ -529,7 +529,7 @@ AnimatorStateMachine:
     m_Position: {x: 95, y: 995, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4685335325928457713}
-    m_Position: {x: 250, y: 260, z: 0}
+    m_Position: {x: 260, y: 120, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2920843232939072208}
     m_Position: {x: 30, y: 170, z: 0}
@@ -545,7 +545,7 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 2920843232939072208}
+  m_DefaultState: {fileID: -4685335325928457713}
 --- !u!1102 &616798867813889595
 AnimatorState:
   serializedVersion: 6

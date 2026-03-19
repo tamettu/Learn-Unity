@@ -313,7 +313,7 @@ GameObject:
   - component: {fileID: 1729504509}
   m_Layer: 0
   m_Name: player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -420,6 +420,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _moveSpeed: 3.4
   _rollSpeed: 0.2
+  _totalRollTime: 0.43
   _rollCD: 0.5
 --- !u!50 &1729504509
 Rigidbody2D:

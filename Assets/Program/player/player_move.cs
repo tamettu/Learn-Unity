@@ -46,7 +46,9 @@ public class player_move : MonoBehaviour
             return;
         }
 
-        if (!Input.GetKeyDown(KeyCode.LeftControl)) return;   
+        if (!Input.GetKeyDown(KeyCode.LeftControl) 
+        || (Input.GetKeyDown(KeyCode.LeftControl) 
+        &&  _totalTime - _lastRollTime <= _rollCD)) return;   
 
         _isRoll = true; _animator.SetBool("IsRolling",true);
         _lastRollTime = _totalTime;
@@ -71,8 +73,8 @@ public class player_move : MonoBehaviour
             _animator.SetFloat("X",direction.x);
             Rolling(direction);
         }
-        else if (_isRoll)Rolling(direction);
-        else if (!_isRoll) _animator.SetBool("IsMoving",false);
+        else if (_isRoll) Rolling(direction);
+        else _animator.SetBool("IsMoving",false);
         
         
         
