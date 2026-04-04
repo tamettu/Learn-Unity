@@ -309,8 +309,8 @@ GameObject:
   - component: {fileID: 1729504507}
   - component: {fileID: 1729504506}
   - component: {fileID: 1729504505}
-  - component: {fileID: 1729504508}
   - component: {fileID: 1729504509}
+  - component: {fileID: 1729504510}
   m_Layer: 0
   m_Name: player
   m_TagString: Player
@@ -406,22 +406,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1729504508
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1729504504}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52de3fae4a78686cf90b5ec2124789db, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _moveSpeed: 3.4
-  _rollSpeed: 0.2
-  _totalRollTime: 0.43
-  _rollCD: 0.5
 --- !u!50 &1729504509
 Rigidbody2D:
   serializedVersion: 4
@@ -449,6 +433,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1729504510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1729504504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12cf933775d458b3b41372a472d8bcd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _moveSpeed: 3
+  _rollSpeed: 13
+  _totalRollTime: 0.43
+  _rollCD: 0.5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

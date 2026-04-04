@@ -3,7 +3,7 @@
 ## ✨Features
 - A movable character
   ```
-  Can move direction ✅️
+  Can move _direction ✅️
   Can scroll         ✅️
   Can dash           ⏳(doing)
   Can jump           ⏳(doing)
