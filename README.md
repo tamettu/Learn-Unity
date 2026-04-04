@@ -1,14 +1,14 @@
 # This is a simple game demo 
 
 ## ✨Features
-- A movable character
+- A movable character basied on FSM
   ```
   Can move _direction ✅️
   Can scroll         ✅️
   Can dash           ⏳(doing)
   Can jump           ⏳(doing)
   ```
-- A camera that follow player
+- A camera that follow player basied on FSM
 - Animator state machine & conditions
 
 ---
@@ -30,6 +30,7 @@
 ┃  ┃ ┗Main_character      #put player picture
 ┃  ┗Program                
 ┃     ┣camera             #put camera scripts
+┃     ┣FSM                #put FSM scripts
 ┃     ┗player             #put player scripts
 ```
 <img width="287" height="239" alt="image" src="https://github.com/user-attachments/assets/2ad71e1d-d0cc-45ab-8fd8-e4a559573a1e" />
