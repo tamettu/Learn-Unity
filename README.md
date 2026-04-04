@@ -8,7 +8,7 @@
   Can dash           ⏳(doing)
   Can jump           ⏳(doing)
   ```
-- A camera that follow player basied on FSM
+- A camera that follow player
 - Animator state machine & conditions
 
 ---
