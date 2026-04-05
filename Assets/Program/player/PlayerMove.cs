@@ -1,13 +1,6 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using Unity.Collections;
-using Unity.VisualScripting;
 using UnityEngine;
 using FSM;
 using StateMachine = FSM.StateMachine;
-using System.Buffers;
-using UnityEditor.Experimental.GraphView;
 public class PlayerMove : MonoBehaviour, IEntity
 {
     #region Different State  
@@ -98,7 +91,7 @@ public class PlayerMove : MonoBehaviour, IEntity
     #region Initialization
     #region Tools
     public StateMachine Fsm {get; private set;}
-    public Animator Aim {get; private set;}
+    Animator Aim;
     Rigidbody2D _rb;
     #endregion
     #region Init All State

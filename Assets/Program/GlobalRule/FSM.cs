@@ -16,7 +16,6 @@ namespace FSM
     public interface IEntity
     {
         StateMachine Fsm {get;}
-        Animator Aim {get;}
     }
     public class StateMachine
     {
